@@ -1,1 +1,4 @@
 Copy your URL to screenshot here
+http://imgur.com/a/00wtY
+
+contacts many to many groups via contact_groups
