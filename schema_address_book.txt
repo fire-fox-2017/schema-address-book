@@ -1,1 +1,3 @@
-Copy your URL to screenshot here
+http://imgur.com/a/pwXxW
+
+Pada dasarnya record pada tabel kontak minimal ada satu record, sementara record pada tabel grup boleh kosong. Relationship many-to-many harus diimplementasi dengan penambahan tabel baru yang menghubungkan foreign key yaitu kontak_id dan grup_id.
